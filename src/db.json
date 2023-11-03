@@ -1,0 +1,354 @@
+{
+  "atletas": [
+    {
+      "Rank": "1",
+      "Jogador": "Cano",
+      "Posicao": "Atacante",
+      "Gols": " 16 ",
+      "Time": "Fluminense"
+    },
+    {
+      "Rank": "2",
+      "Jogador": "Lelê",
+      "Posicao": "Atacante",
+      "Gols": " 13 ",
+      "Time": "Fluminense"
+    },
+    {
+      "Rank": "3",
+      "Jogador": "Pedro",
+      "Posicao": "Atacante",
+      "Gols": " 9 ",
+      "Time": "Flamengo"
+    },
+    {
+      "Rank": "4",
+      "Jogador": "Gabriel Pec",
+      "Posicao": "Atacante",
+      "Gols": " 6 ",
+      "Time": "Vasco"
+    },
+    {
+      "Rank": "5",
+      "Jogador": "Pedro Raul",
+      "Posicao": "Atacante",
+      "Gols": " 6 ",
+      "Time": "Vasco"
+    },
+    {
+      "Rank": "6",
+      "Jogador": "Pablo Thomaz",
+      "Posicao": "Atacante",
+      "Gols": " 6 ",
+      "Time": "Audax-RJ"
+    },
+    {
+      "Rank": "7",
+      "Jogador": "Gabriel",
+      "Posicao": "Atacante",
+      "Gols": " 5 ",
+      "Time": "Flamengo"
+    },
+    {
+      "Rank": "8",
+      "Jogador": "Pedrinho",
+      "Posicao": "Atacante",
+      "Gols": " 4 ",
+      "Time": "Volta Redonda"
+    },
+    {
+      "Rank": "9",
+      "Jogador": "Gustavo Sauer",
+      "Posicao": "Atacante",
+      "Gols": " 4 ",
+      "Time": "Botafogo"
+    },
+    {
+      "Rank": "10",
+      "Jogador": "Tiquinho Soares",
+      "Posicao": "Atacante",
+      "Gols": " 4 ",
+      "Time": "Botafogo"
+    },
+    {
+      "Rank": "11",
+      "Jogador": "Luis Felipe",
+      "Posicao": "Atacante",
+      "Gols": " 4 ",
+      "Time": "Bangu"
+    },
+    {
+      "Rank": "12",
+      "Jogador": "Higor Leite",
+      "Posicao": "Meio campo",
+      "Gols": " 3 ",
+      "Time": "Audax-RJ"
+    },
+    {
+      "Rank": "13",
+      "Jogador": "Peu",
+      "Posicao": "Lateral Esquerda",
+      "Gols": " 3 ",
+      "Time": "Boavista"
+    },
+    {
+      "Rank": "14",
+      "Jogador": "Alex Teixeira",
+      "Posicao": "Meio campo",
+      "Gols": " 3 ",
+      "Time": "Vasco"
+    },
+    {
+      "Rank": "15",
+      "Jogador": "Emerson Urso",
+      "Posicao": "Atacante",
+      "Gols": " 3 ",
+      "Time": "Audax-RJ"
+    },
+    {
+      "Rank": "16",
+      "Jogador": "Ayrton Lucas",
+      "Posicao": "Lateral Esquerda",
+      "Gols": " 3 ",
+      "Time": "Flamengo"
+    },
+    {
+      "Rank": "17",
+      "Jogador": "Fabrício Bruno",
+      "Posicao": "Zagueiro Direito",
+      "Gols": " 3 ",
+      "Time": "Flamengo"
+    },
+    {
+      "Rank": "18",
+      "Jogador": "Emerson Carioca",
+      "Posicao": "Atacante",
+      "Gols": " 3 ",
+      "Time": "Portuguesa-RJ"
+    },
+    {
+      "Rank": "19",
+      "Jogador": "Ewerton",
+      "Posicao": "Atacante",
+      "Gols": " 3 ",
+      "Time": "Nova Iguaçu"
+    },
+    {
+      "Rank": "20",
+      "Jogador": "Victor Sá",
+      "Posicao": "Atacante",
+      "Gols": " 2 ",
+      "Time": "Botafogo"
+    },
+    {
+      "Rank": "21",
+      "Jogador": "Pablo",
+      "Posicao": "Atacante",
+      "Gols": " 2 ",
+      "Time": "Boavista"
+    },
+    {
+      "Rank": "22",
+      "Jogador": "Puma Rodríguez",
+      "Posicao": "Lateral Direito",
+      "Gols": " 2 ",
+      "Time": "Vasco"
+    },
+    {
+      "Rank": "23",
+      "Jogador": "Luizinho",
+      "Posicao": "Atacante",
+      "Gols": " 2 ",
+      "Time": "Volta Redonda"
+    },
+    {
+      "Rank": "24",
+      "Jogador": "Lucas Fernandes",
+      "Posicao": "Meio campo",
+      "Gols": " 2 ",
+      "Time": "Botafogo"
+    },
+    {
+      "Rank": "25",
+      "Jogador": "Gustavo",
+      "Posicao": "Atacante",
+      "Gols": " 2 ",
+      "Time": "Madureira"
+    },
+    {
+      "Rank": "26",
+      "Jogador": "Anderson Rosa",
+      "Posicao": "Meio campo",
+      "Gols": " 2 ",
+      "Time": "Portuguesa-RJ"
+    },
+    {
+      "Rank": "27",
+      "Jogador": "Kevem",
+      "Posicao": "Zagueiro Direito",
+      "Gols": " 2 ",
+      "Time": "Boavista"
+    },
+    {
+      "Rank": "28",
+      "Jogador": "Matheus Alessandro",
+      "Posicao": "Atacante",
+      "Gols": " 2 ",
+      "Time": "Boavista"
+    },
+    {
+      "Rank": "29",
+      "Jogador": "Berguinho",
+      "Posicao": "Meio campo",
+      "Gols": " 2 ",
+      "Time": "Volta Redonda"
+    },
+    {
+      "Rank": "30",
+      "Jogador": "Edson Cariús",
+      "Posicao": "Atacante",
+      "Gols": " 2 ",
+      "Time": "Portuguesa-RJ"
+    },
+    {
+      "Rank": "31",
+      "Jogador": "Luciano Naninho",
+      "Posicao": "Meio campo",
+      "Gols": " 2 ",
+      "Time": "Volta Redonda"
+    },
+    {
+      "Rank": "32",
+      "Jogador": "Matheus Gonçalves",
+      "Posicao": "Meio campo",
+      "Gols": " 2 ",
+      "Time": "Flamengo"
+    },
+    {
+      "Rank": "33",
+      "Jogador": "Alexsander",
+      "Posicao": "Volante",
+      "Gols": " 2 ",
+      "Time": "Fluminense"
+    },
+    {
+      "Rank": "34",
+      "Jogador": "Arias",
+      "Posicao": "Meio campo",
+      "Gols": " 2 ",
+      "Time": "Fluminense"
+    },
+    {
+      "Rank": "35",
+      "Jogador": "Víctor Cuesta",
+      "Posicao": "Zagueiro Esquerdo",
+      "Gols": " 2 ",
+      "Time": "Botafogo"
+    },
+    {
+      "Rank": "36",
+      "Jogador": "Ricardo Sena",
+      "Posicao": "Lateral Esquerda",
+      "Gols": " 2 ",
+      "Time": "Volta Redonda"
+    },
+    {
+      "Rank": "37",
+      "Jogador": "Raphael Lopes",
+      "Posicao": "Atacante",
+      "Gols": " 2 ",
+      "Time": "Audax-RJ"
+    },
+    {
+      "Rank": "38",
+      "Jogador": "Bruno Barra",
+      "Posicao": "Volante",
+      "Gols": " 2 ",
+      "Time": "Volta Redonda"
+    },
+    {
+      "Rank": "39",
+      "Jogador": "Bismarck",
+      "Posicao": "Atacante",
+      "Gols": " 1 ",
+      "Time": "Resende"
+    },
+    {
+      "Rank": "40",
+      "Jogador": "Jair",
+      "Posicao": "Volante",
+      "Gols": " 1 ",
+      "Time": "Vasco"
+    },
+    {
+      "Rank": "41",
+      "Jogador": "Lucas Silva",
+      "Posicao": "Meio campo",
+      "Gols": " 1 ",
+      "Time": "Portuguesa-RJ"
+    },
+    {
+      "Rank": "42",
+      "Jogador": "Alan",
+      "Posicao": "Atacante",
+      "Gols": " 1 ",
+      "Time": "Fluminense"
+    },
+    {
+      "Rank": "43",
+      "Jogador": "Marçal",
+      "Posicao": "Lateral Esquerda",
+      "Gols": " 1 ",
+      "Time": "Botafogo"
+    },
+    {
+      "Rank": "44",
+      "Jogador": "Patrick de Paula",
+      "Posicao": "Volante",
+      "Gols": " 1 ",
+      "Time": "Botafogo"
+    },
+    {
+      "Rank": "45",
+      "Jogador": "Marcelo",
+      "Posicao": "Lateral Esquerda",
+      "Gols": " 1 ",
+      "Time": "Fluminense"
+    },
+    {
+      "Rank": "46",
+      "Jogador": "Igor Bolt",
+      "Posicao": "Atacante",
+      "Gols": " 1 ",
+      "Time": "Resende"
+    },
+    {
+      "Rank": "47",
+      "Jogador": "Lorran",
+      "Posicao": "Meio campo",
+      "Gols": " 1 ",
+      "Time": "Flamengo"
+    },
+    {
+      "Rank": "48",
+      "Jogador": "Renatinho",
+      "Posicao": "Volante",
+      "Gols": " 1 ",
+      "Time": "Bangu"
+    },
+    {
+      "Rank": "49",
+      "Jogador": "Gustavo Nicola",
+      "Posicao": "Volante",
+      "Gols": " 1 ",
+      "Time": "Nova Iguaçu"
+    },
+    {
+      "Rank": "50",
+      "Jogador": "Lucas Mota",
+      "Posicao": "Lateral Direito",
+      "Gols": " 1 ",
+      "Time": "Audax-RJ"
+    }
+  ]
+}
