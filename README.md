@@ -10,11 +10,9 @@
 
 </div><br/>
 
-<p>WebScrapping - tabela do Campeonato Carioca de 2023 . Especificamente, Capitura dos   goleadores ,com React.</p>
-<p> A organização dos dados foi feito com o JSON</p>
-<p> Servidor criado com express</p>
-<p>Axios</p>
-<p>Cheerio</p>
+<p>Web Scrapping com Axios e cherrio - tabela do Campeonato Carioca de 2023 . Especificamente, Capitura dos   goleadores .</p>
+<p> A organização dos dados foi feito com o JSON e React</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
